@@ -1,0 +1,9 @@
+{
+  "BillID": "20221109112205",
+  "BillDate": "01/24/2008 07:57:28",
+  "StoreID": 3,
+  "BillDetails": {
+    "24": 8
+  },
+  "BillTotal": 200.0
+}
